@@ -1,0 +1,7 @@
+[submodule "nerdlab/themes/hugo-xmin"]
+	path = nerdlab/themes/hugo-xmin
+	url = https://github.com/daenuprobst/hugo-xmin.git
+[submodule "nerdlab/public"]
+	path = nerdlab/public
+	url = https://github.com/daenuprobst/daenuprobst.github.io.git
+	branch = master
